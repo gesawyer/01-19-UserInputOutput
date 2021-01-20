@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMaking", "DecisionMaking\DecisionMaking.csproj", "{5855C3D1-C84D-4FCE-BF88-FE74EE72E0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5855C3D1-C84D-4FCE-BF88-FE74EE72E0BA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5855C3D1-C84D-4FCE-BF88-FE74EE72E0BA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5855C3D1-C84D-4FCE-BF88-FE74EE72E0BA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5855C3D1-C84D-4FCE-BF88-FE74EE72E0BA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
