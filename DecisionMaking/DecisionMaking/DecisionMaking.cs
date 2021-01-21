@@ -58,7 +58,7 @@ namespace DecisionMaking
                 else
                 {
                     Console.WriteLine("Try again.");
-                    Console.Beep;
+                   
 
                 }
 
